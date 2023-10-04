@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>Fonte 10 A</title>
+</head>
+<body>
+    <h1>Primeira página</h1>
+    <p>Fonte de 10 A</p>
+</body>
+</html>
